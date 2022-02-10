@@ -7,7 +7,7 @@ It is a convenient way to review the knowledge quickly.
 
 
 # DATA 7201
-* [HDFS]()
+* [HDFS](https://github.com/uqer-jyh/Course-Notes-and-Materials/blob/main/DATA7201/Hadoop.pdf)
 
 # DATA 7202  
 * [Statistical Learning]()
